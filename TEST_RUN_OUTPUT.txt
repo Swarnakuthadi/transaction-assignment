@@ -1,0 +1,12 @@
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.101 s -- in com.example.transactionstarter.TransactionStarterApplicationTests
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  10.954 s
+[INFO] Finished at: 2026-08-31T20:05:53+
+ 05:30{"transactionId":"TXN001","customerId":"CUST001","amount":1000.00,"currency":"INR","transactionType":"PAYMENT","transactionStatus":"COMPLETED"}
